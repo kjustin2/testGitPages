@@ -61,7 +61,7 @@ window.addEventListener('DOMContentLoaded', () => {
       return {
         owner: repoInfo[0],
         name: repoInfo[1],
-        branch: 'gh-pages'
+        branch: 'main'
       }
     },
 
